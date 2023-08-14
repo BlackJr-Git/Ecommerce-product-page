@@ -102,6 +102,7 @@ img {
 
 .miniature img {
   width: 80px;
+  /* border: 1px solid var(--main-color); */
 }
 
 .images{
